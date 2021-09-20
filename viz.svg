@@ -1,0 +1,981 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600">
+    <rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="backgorund" />
+    <clipPath id="serieClipPath"><rect x="0" y="0" width="201.25" height="200" /></clipPath>
+    <g id="K. De Bruyne" transform="translate(0,0)" clip-path="url(#serieClipPath)">
+        <g id="K. De Bruyne" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="3">
+                    <path
+                        d="M0,-61L69.4271256895462,-22.558240589371163L42.908323417350545,59.05824058937115L-28.801477362331177,39.64183272437243L-72.28029523843168,-23.48529157249599Z"
+                        stroke="#2ca02c"
+                        fill="#2ca02c"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="3.7351727373994275e-15" cy="-61" r="1" stroke="none" fill="#2ca02c" />
+                        <circle cx="69.4271256895462" cy="-22.55824058937116" r="1" stroke="none" fill="#2ca02c" />
+                        <circle cx="42.90832341735054" cy="59.05824058937117" r="1" stroke="none" fill="#2ca02c" />
+                        <circle cx="-28.801477362331177" cy="39.64183272437243" r="1" stroke="none" fill="#2ca02c" />
+                        <circle cx="-72.28029523843168" cy="-23.485291572495992" r="1" stroke="none" fill="#2ca02c" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">K. De Bruyne</text>
+    </g>
+    <g id="T. Kroos" transform="translate(201.25,0)" clip-path="url(#serieClipPath)">
+        <g id="T. Kroos" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="9">
+                    <path d="M0,-50L66.57395614066074,-21.631189606246323L43.49610866964302,59.8672575837461L-38.79382665130322,53.39512162874653L-65.6228996243656,-21.32217261187136Z" stroke="#17becf" fill="#17becf" fill-opacity="0.5" />
+                    <g id="dots">
+                        <circle cx="3.061616997868383e-15" cy="-50" r="1" stroke="none" fill="#17becf" />
+                        <circle cx="66.57395614066074" cy="-21.631189606246316" r="1" stroke="none" fill="#17becf" />
+                        <circle cx="43.496108669643014" cy="59.86725758374611" r="1" stroke="none" fill="#17becf" />
+                        <circle cx="-38.79382665130322" cy="53.39512162874653" r="1" stroke="none" fill="#17becf" />
+                        <circle cx="-65.6228996243656" cy="-21.322172611871363" r="1" stroke="none" fill="#17becf" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">T. Kroos</text>
+    </g>
+    <g id="L. Modrić" transform="translate(402.5,0)" clip-path="url(#serieClipPath)">
+        <g id="L. Modrić" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="5">
+                    <path
+                        d="M0,-58L60.867617042889826,-19.777087639996637L38.793826651303235,53.39512162874652L-39.38161190359569,54.20413862312148L-70.37818220584137,-22.867257583746095Z"
+                        stroke="#9467bd"
+                        fill="#9467bd"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="3.5514757175273244e-15" cy="-58" r="1" stroke="none" fill="#9467bd" />
+                        <circle cx="60.867617042889826" cy="-19.777087639996633" r="1" stroke="none" fill="#9467bd" />
+                        <circle cx="38.79382665130323" cy="53.39512162874653" r="1" stroke="none" fill="#9467bd" />
+                        <circle cx="-39.38161190359569" cy="54.20413862312148" r="1" stroke="none" fill="#9467bd" />
+                        <circle cx="-70.37818220584137" cy="-22.8672575837461" r="1" stroke="none" fill="#9467bd" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">L. Modrić</text>
+    </g>
+    <g id="Cristiano Ronaldo" transform="translate(603.75,0)" clip-path="url(#serieClipPath)">
+        <g id="Cristiano Ronaldo" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="1">
+                    <path
+                        d="M0,-73L73.23135175472682,-23.794308566870953L44.08389392193549,60.67627457812105L-13.51906080272688,18.607390870623792L-62.76973007548014,-20.395121628746516Z"
+                        stroke="#1f77b4"
+                        fill="#1f77b4"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="4.469960816887839e-15" cy="-73" r="1" stroke="none" fill="#1f77b4" />
+                        <circle cx="73.23135175472682" cy="-23.79430856687095" r="1" stroke="none" fill="#1f77b4" />
+                        <circle cx="44.083893921935484" cy="60.67627457812106" r="1" stroke="none" fill="#1f77b4" />
+                        <circle cx="-13.51906080272688" cy="18.607390870623792" r="1" stroke="none" fill="#1f77b4" />
+                        <circle cx="-62.76973007548014" cy="-20.39512162874652" r="1" stroke="none" fill="#1f77b4" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">Cristiano Ronaldo</text>
+    </g>
+    <g id="L. Messi" transform="translate(0,200)" clip-path="url(#serieClipPath)">
+        <g id="L. Messi" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="0">
+                    <path
+                        d="M0,-69L65.62289962436559,-21.322172611871373L44.67167917422797,61.485291572495996L-10.580134541264515,14.562305898749054L-72.28029523843168,-23.48529157249599Z"
+                        stroke="#d62728"
+                        fill="#d62728"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="4.225031457058369e-15" cy="-69" r="1" stroke="none" fill="#d62728" />
+                        <circle cx="65.62289962436559" cy="-21.32217261187137" r="1" stroke="none" fill="#d62728" />
+                        <circle cx="44.67167917422796" cy="61.48529157249601" r="1" stroke="none" fill="#d62728" />
+                        <circle cx="-10.580134541264515" cy="14.562305898749054" r="1" stroke="none" fill="#d62728" />
+                        <circle cx="-72.28029523843168" cy="-23.485291572495992" r="1" stroke="none" fill="#d62728" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">L. Messi</text>
+    </g>
+    <g id="E. Hazard" transform="translate(201.25,200)" clip-path="url(#serieClipPath)">
+        <g id="E. Hazard" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="4">
+                    <path
+                        d="M0,-71L62.76973007548013,-20.39512162874653L38.20604139901076,52.58610463437158L-19.39691332565161,26.697560814373265L-68.47606917325106,-22.249223594996202Z"
+                        stroke="#ff7f0e"
+                        fill="#ff7f0e"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="4.347496136973104e-15" cy="-71" r="1" stroke="none" fill="#ff7f0e" />
+                        <circle cx="62.76973007548013" cy="-20.395121628746526" r="1" stroke="none" fill="#ff7f0e" />
+                        <circle cx="38.20604139901075" cy="52.58610463437159" r="1" stroke="none" fill="#ff7f0e" />
+                        <circle cx="-19.39691332565161" cy="26.697560814373265" r="1" stroke="none" fill="#ff7f0e" />
+                        <circle cx="-68.47606917325106" cy="-22.249223594996206" r="1" stroke="none" fill="#ff7f0e" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">E. Hazard</text>
+    </g>
+    <g id="Neymar Jr" transform="translate(402.5,200)" clip-path="url(#serieClipPath)">
+        <g id="Neymar Jr" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="2">
+                    <path
+                        d="M0,-73L61.81867355918498,-20.086104634371583L38.793826651303235,53.39512162874652L-17.045772316481717,23.461492836873475L-66.57395614066075,-21.631189606246306Z"
+                        stroke="#e377c2"
+                        fill="#e377c2"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="4.469960816887839e-15" cy="-73" r="1" stroke="none" fill="#e377c2" />
+                        <circle cx="61.81867355918498" cy="-20.08610463437158" r="1" stroke="none" fill="#e377c2" />
+                        <circle cx="38.79382665130323" cy="53.39512162874653" r="1" stroke="none" fill="#e377c2" />
+                        <circle cx="-17.045772316481717" cy="23.461492836873475" r="1" stroke="none" fill="#e377c2" />
+                        <circle cx="-66.57395614066075" cy="-21.63118960624631" r="1" stroke="none" fill="#e377c2" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">Neymar Jr</text>
+    </g>
+    <g id="L. Suárez" transform="translate(603.75,200)" clip-path="url(#serieClipPath)">
+        <g id="L. Suárez" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="6">
+                    <path
+                        d="M0,-60L65.62289962436559,-21.322172611871373L40.55718240818065,55.822172611871366L-19.39691332565161,26.697560814373265L-64.67184310807045,-21.013155617496412Z"
+                        stroke="#8c564b"
+                        fill="#8c564b"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="3.67394039744206e-15" cy="-60" r="1" stroke="none" fill="#8c564b" />
+                        <circle cx="65.62289962436559" cy="-21.32217261187137" r="1" stroke="none" fill="#8c564b" />
+                        <circle cx="40.557182408180644" cy="55.82217261187137" r="1" stroke="none" fill="#8c564b" />
+                        <circle cx="-19.39691332565161" cy="26.697560814373265" r="1" stroke="none" fill="#8c564b" />
+                        <circle cx="-64.67184310807045" cy="-21.013155617496416" r="1" stroke="none" fill="#8c564b" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">L. Suárez</text>
+    </g>
+    <g id="Sergio Ramos" transform="translate(0,400)" clip-path="url(#serieClipPath)">
+        <g id="Sergio Ramos" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="7">
+                    <path
+                        d="M0,-60L60.867617042889826,-19.777087639996637L28.213692110038714,38.83281572999747L-42.90832341735053,59.05824058937117L-48.503882331052836,-15.759866713122308Z"
+                        stroke="#bcbd22"
+                        fill="#bcbd22"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="3.67394039744206e-15" cy="-60" r="1" stroke="none" fill="#bcbd22" />
+                        <circle cx="60.867617042889826" cy="-19.777087639996633" r="1" stroke="none" fill="#bcbd22" />
+                        <circle cx="28.21369211003871" cy="38.83281572999748" r="1" stroke="none" fill="#bcbd22" />
+                        <circle cx="-42.90832341735053" cy="59.05824058937117" r="1" stroke="none" fill="#bcbd22" />
+                        <circle cx="-48.503882331052836" cy="-15.759866713122312" r="1" stroke="none" fill="#bcbd22" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">Sergio Ramos</text>
+    </g>
+    <g id="R. Lewandowski" transform="translate(201.25,400)" clip-path="url(#serieClipPath)">
+        <g id="R. Lewandowski" transform="translate(100.625, 110.625)">
+            <g id="axes">
+                <circle r="73" fill="none" stroke="LightGray" class="grid" id="90" />
+                <circle r="65" fill="none" stroke="LightGray" class="grid" id="80" />
+                <circle r="56" fill="none" stroke="LightGray" class="grid" id="70" />
+                <circle r="48" fill="none" stroke="LightGray" class="grid" id="60" />
+                <circle r="40" fill="none" stroke="LightGray" class="grid" id="50" />
+                <circle r="32" fill="none" stroke="LightGray" class="grid" id="40" />
+                <circle r="24" fill="none" stroke="LightGray" class="grid" id="30" />
+                <circle r="16" fill="none" stroke="LightGray" class="grid" id="20" />
+                <circle r="8" fill="none" stroke="LightGray" class="grid" id="10" />
+                <circle r="0" fill="none" stroke="LightGray" class="grid" id="0" />
+                <g>
+                    <line x1="0" y1="0" x2="4.936857409062768e-15" y2="-80.625" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="5.549180808636444e-15" y="-90.625" font-family="Arial, sans-serif" font-size="12">SprintSpeed</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="76.67893162629676" y2="-24.914495171480134" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="86.1894967892483" y="-28.004665115229606" font-family="Arial, sans-serif" font-size="12">ShotPower</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="47.390185966080644" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="53.26803848900538" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">LongShots</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-47.39018596608064" y2="65.22699517148014" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-53.26803848900537" y="73.31716511522961" font-family="Arial, sans-serif" font-size="12">Interceptions</text>
+                </g>
+                <g>
+                    <line x1="0" y1="0" x2="-76.67893162629676" y2="-24.914495171480127" stroke="black" />
+                    <text text-anchor="middle" dy="0.35em" x="-86.1894967892483" y="-28.0046651152296" font-family="Arial, sans-serif" font-size="12">Vision</text>
+                </g>
+                <g id="y axis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end" transform="translate(0, -80.625)">
+                    <path class="domain" stroke="currentColor" d="M-6,0.5H0.5V81.125H-6" />
+                    <g class="tick" opacity="1" transform="translate(0,4.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,13.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,21.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,30.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,38.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,47.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,55.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,64.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,72.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,81.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                </g>
+            </g>
+            <g id="radars">
+                <g id="8">
+                    <path
+                        d="M0,-63L67.5250126569559,-21.94020660062127L39.96939715588818,55.013155617496416L-18.221342821066663,25.079526825623372L-58.965504010299526,-19.15905365124673Z"
+                        stroke="#7f7f7f"
+                        fill="#7f7f7f"
+                        fill-opacity="0.5"
+                    />
+                    <g id="dots">
+                        <circle cx="3.857637417314163e-15" cy="-63" r="1" stroke="none" fill="#7f7f7f" />
+                        <circle cx="67.5250126569559" cy="-21.940206600621266" r="1" stroke="none" fill="#7f7f7f" />
+                        <circle cx="39.969397155888174" cy="55.01315561749642" r="1" stroke="none" fill="#7f7f7f" />
+                        <circle cx="-18.221342821066663" cy="25.079526825623372" r="1" stroke="none" fill="#7f7f7f" />
+                        <circle cx="-58.965504010299526" cy="-19.159053651246733" r="1" stroke="none" fill="#7f7f7f" />
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text x="5" y="5" style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;">R. Lewandowski</text>
+    </g>
+    <g id="grid">
+        <rect x="0" y="0" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="201.25" y="0" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="402.5" y="0" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="603.75" y="0" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="0" y="200" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="201.25" y="200" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="402.5" y="200" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="603.75" y="200" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="0" y="400" width="201.25" height="200" fill="none" stroke="#ccc" />
+        <rect x="201.25" y="400" width="201.25" height="200" fill="none" stroke="#ccc" />
+    </g>
+</svg>
